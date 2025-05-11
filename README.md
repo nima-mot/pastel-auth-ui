@@ -13,6 +13,6 @@ A responsive login and signup form built with React and styled using Tailwind CS
 
 ```bash
 git clone https://github.com/nima-mot/pastel-auth-ui.git
-cd your-repo-name
+cd pastel-auth-ui
 npm install
 npm run dev
