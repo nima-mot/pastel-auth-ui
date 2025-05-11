@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c357265-dfb8-472f-a130-e6c731cfc6a1/deploy-status)](https://app.netlify.com/sites/hyperpastelui/deploys)
+
 # React Auth Form with TailwindCSS
 
 A responsive login and signup form built with React and styled using Tailwind CSS with a pastel color palette.
@@ -17,5 +19,3 @@ cd pastel-auth-ui
 npm install
 npm run dev
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c357265-dfb8-472f-a130-e6c731cfc6a1/deploy-status)](https://app.netlify.com/sites/hyperpastelui/deploys)
