@@ -1,4 +1,3 @@
-import { FiEye, FiEyeOff } from 'react-icons/fi';
 import { FiLock } from 'react-icons/fi';
 
 export default function PasswordInput({ name, value, onChange, placeholder, showPassword }) {
