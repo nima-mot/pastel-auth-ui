@@ -1,6 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c357265-dfb8-472f-a130-e6c731cfc6a1/deploy-status)](https://app.netlify.com/sites/hyperpastelui/deploys)
-
-![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c357265-dfb8-472f-a130-e6c731cfc6a1/deploy-status)](https://app.netlify.com/sites/hyperpastelui/deploys) ![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react)
 
 # React Auth Form with TailwindCSS
 
