@@ -84,7 +84,7 @@ const AuthPage = () => {
               name="confirmPassword"
               value={form.confirmPassword}
               onChange={handleChange}
-              placeholder="Confirm Password"
+              placeholder = "Confirm Password"
               showPassword={showPasswords}
             />
           )}
