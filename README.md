@@ -16,3 +16,6 @@ git clone https://github.com/nima-mot/pastel-auth-ui.git
 cd pastel-auth-ui
 npm install
 npm run dev
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c357265-dfb8-472f-a130-e6c731cfc6a1/deploy-status)](https://app.netlify.com/sites/hyperpastelui/deploys)
